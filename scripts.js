@@ -1,6 +1,14 @@
-// Add your code to add 2 numbers together
-function addNumbers(a, b) {
+const nums = [2,7,11,15]
+const target = 9
 
-}
 
-console.log(addNumbers(10, 20)); // Expected output: 30
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+
+var twoSum = function(nums, target) {
+    
+};
+
